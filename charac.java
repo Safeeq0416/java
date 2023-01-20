@@ -31,8 +31,5 @@ public class charac
 		System.out.println(i2);
 
 
-
-	
-
 }
 }
