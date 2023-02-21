@@ -31,5 +31,11 @@ public class charac
 		System.out.println(i2);
 
 
+<<<<<<< HEAD
+=======
+
+	
+
+>>>>>>> fc1d82a (add java file)
 }
 }
